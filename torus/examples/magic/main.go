@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"util/torus"
+
+	"github.com/lferth93/util/torus"
 )
 
 func main() {
