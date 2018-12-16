@@ -1,7 +1,7 @@
-#Util
+# Util
 Some util packages for go programing language (Golang)
 
-##Install
+## Install
 ````
 go get -u github.com/lferth93/util
 ````
